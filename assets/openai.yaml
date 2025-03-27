@@ -1,0 +1,44 @@
+#Openai parameter
+openai_api_key: 'x'
+deepinfra_api_key: 'x'
+deepinfra_base_url: 'https://api.deepinfra.com/v1/openai'
+
+# openai_api_key:
+# # - "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"
+# # - "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"
+# # - "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"
+# # - "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"
+# # - "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"
+# # - "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"
+# # - "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"
+  
+# models:
+#   - 'llama3-8b-8192'
+#   - 'llama3-8b-8192'
+#   - 'llama3-8b-8192'
+#   - 'llama3-8b-8192'
+#   - 'llama3-8b-8192'
+#   - 'llama3-8b-8192'
+#   - 'llama3-8b-8192'
+
+
+
+# daily_token_limits:
+#   - 500000
+#   - 500000
+#   - 500000
+#   - 500000
+#   - 500000
+#   - 500000
+#   - 500000
+
+# use_multiple_apis: true  # Enable multi-API usage
+
+# openai_api_key: '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'
+
+# alternative_api_key: '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' 
+# alternative_model: 'llama3-8b-8192' 
+
+# use_alternative_api: true  
+# daily_token_limit: 500000  
+

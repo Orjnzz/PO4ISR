@@ -1,0 +1,7 @@
+numpy
+openai
+optuna
+pandas
+torch
+tqdm
+wandb
